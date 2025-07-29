@@ -5,10 +5,16 @@
  - Ngrok-dan auth kalitini nusxalang va github repository sirlarini qo'shish bo'limiga qo'shing.
  - Yangi ish oqimini qo'lda o'rnating. Quyidagi kodni main.yml-ga qo'ying va o'zgarishlar qiling
 
+
+
 name: CI
+
 on: [push, workflow_dispatch]
+
 jobs:
+  
   build:
+    
     runs-on: windows-latest
 
     steps:
