@@ -1,4 +1,4 @@
-Steps To Create Windows Server
+## Steps To Create Windows Server
 ro'yxatdan o'ting : https://github.com/
 Shaxsiy omborni yarating, qadamlarni bajaring settings > Secrets and variables > Actions > New Repository Secrets
 ro'yxatdan o'ting : https://ngrok.com/
